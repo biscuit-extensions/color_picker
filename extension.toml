@@ -1,0 +1,7 @@
+[extension]
+id = "color_picker"
+name = "Color Picker"
+version = "0.1.0"
+description = "Color Picker extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
